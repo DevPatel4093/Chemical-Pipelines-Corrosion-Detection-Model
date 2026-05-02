@@ -77,3 +77,9 @@ Chemical-Pipelines-Corrosion-Detection-Model/
 ├── README.md
 └── requirements.txt
 ```
+
+## 👨‍💻 Author
+**Dev Patel**
+
+## 👨‍💻 Contribution
+This project was fully developed independently, including dataset preparation, model implementation, and interface development.
