@@ -67,13 +67,13 @@ The system predicts:
 - IoT integration
 
 ## 📁 Project Structure
+```
 Chemical-Pipelines-Corrosion-Detection-Model/
 ├── webapp.py                      # Streamlit app
 ├── model/
 │   └── Corrosion_Detection.pth 
-│
 ├── notebook/
 │   └── Pipeline_Corrosion_Detection_Model.ipynb
-│
 ├── README.md
 └── requirements.txt
+```
