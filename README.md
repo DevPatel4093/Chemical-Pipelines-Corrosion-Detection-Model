@@ -68,7 +68,6 @@ The system predicts:
 
 ## 📁 Project Structure
 Chemical-Pipelines-Corrosion-Detection-Model/
-│
 ├── webapp.py                      # Streamlit app
 ├── model/
 │   └── Corrosion_Detection.pth 
@@ -77,4 +76,4 @@ Chemical-Pipelines-Corrosion-Detection-Model/
 │   └── Pipeline_Corrosion_Detection_Model.ipynb
 │
 ├── README.md
-├── requirements.txt
+└── requirements.txt
