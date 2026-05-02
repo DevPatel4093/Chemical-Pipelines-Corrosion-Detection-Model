@@ -69,6 +69,9 @@ The system predicts:
 ## 📁 Project Structure
 ```
 Chemical-Pipelines-Corrosion-Detection-Model/
+├── Pipeline Corrosion Detection Final Dataset/
+│   ├── normal/
+│   └── corroded/
 ├── webapp.py                      # Streamlit app
 ├── model/
 │   └── Corrosion_Detection.pth 
