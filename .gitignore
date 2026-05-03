@@ -1,0 +1,6 @@
+# Ignore large files
+*.pth
+*.zip
+
+# Ignore dataset folder
+dataset/
