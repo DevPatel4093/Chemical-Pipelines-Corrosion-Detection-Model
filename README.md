@@ -87,6 +87,7 @@ Chemical-Pipelines-Corrosion-Detection-Model/
 ├── notebook/
 │   └── Pipeline_Corrosion_Detection_Model.ipynb
 ├── README.md
+├── .gitignore
 └── requirements.txt
 The trained model (.pth) and dataset are not included due to size limitations.
 ```
