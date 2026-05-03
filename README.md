@@ -89,6 +89,8 @@ Chemical-Pipelines-Corrosion-Detection-Model/
 ├── README.md
 └── requirements.txt
 ```
+The trained model (.pth) and dataset are not included due to size limitations.
+
 
 ## 👨‍💻 Author
 **Dev Patel**
