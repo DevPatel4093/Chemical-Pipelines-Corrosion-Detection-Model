@@ -70,8 +70,12 @@ The system predicts:
 ```
 Chemical-Pipelines-Corrosion-Detection-Model/
 ├── Pipeline Corrosion Detection Final Dataset/
-│   ├── normal/
-│   └── corroded/
+│   ├── train
+│       ├── corroded/
+│       └── normal/
+│   └── test
+│       ├── corroded/
+│       └── normal/
 ├── webapp.py                      # Streamlit app
 ├── model/
 │   └── Corrosion_Detection.pth 
