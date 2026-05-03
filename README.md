@@ -55,7 +55,7 @@ The system follows an image-based workflow:
    ```
 2. Run the app:
    ```
-   streamlit run app.py
+   python -m streamlit run webapp.py
    ```
 
 ## 📌 Output
