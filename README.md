@@ -9,8 +9,9 @@ Traditional inspection methods are manual, time-consuming, and expensive. This p
 ## ⚙️ Workflow
 
 The system follows an image-based processing pipeline:
-
+```
 Input Image → Preprocessing → Feature Extraction → Classification → Output
+```
 
 ## ⚙️ Methodology
 
@@ -47,10 +48,15 @@ The system follows an image-based workflow:
 - Image-based analysis
 
 ## 🖥️ How to Run
+
 1. Install dependencies:
+   ```
    pip install -r requirements.txt
-3. Run the app:
+   ```
+2. Run the app:
+   ```
    streamlit run app.py
+   ```
 
 ## 📌 Output
 
